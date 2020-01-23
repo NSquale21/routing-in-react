@@ -15,7 +15,7 @@ const FilmDetails = props => {
 	
 	return (
 		<section className="row justify-content-center my-3">
-			<article className="col-8">
+			<article className="col-md-8">
 				<div className="card my-3 shadow">
 					<div className="card-body text-center">
 						<h4 className="card-title">{film.title}</h4>
